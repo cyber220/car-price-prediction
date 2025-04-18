@@ -7,7 +7,7 @@ A machine learning-powered web application that predicts the price of used cars 
 
 ## 🚗 Project Overview
 
-In today’s automotive market, estimating the price of a used car accurately is a complex task. This project addresses the challenge by applying machine learning techniques to historical car data, allowing users to predict car prices with reliability and transparency. The system is developed as part of the **Big Data & Analytics in Education Lab** course at **Bangabandhu Sheikh Mujibur Rahman Digital University, Bangladesh**.
+In today’s automotive market, estimating the price of a used car accurately is a complex task. This project addresses the challenge by applying machine learning techniques to historical car data, allowing users to predict car prices with reliability and transparency. 
 
 ---
 
