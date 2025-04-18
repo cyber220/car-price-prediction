@@ -1,5 +1,5 @@
 
-# Car Price Prediction
+# Car Price Prediction Using Linear Regression
 
 A machine learning-powered web application that predicts the price of used cars based on essential input features such as brand, model, year of purchase, fuel type, and kilometers driven. This project utilizes a **Linear Regression** model and provides a responsive web interface built with **Flask**.
 
@@ -49,7 +49,7 @@ Make sure you have Python 3.x and Git installed.
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/car-price-prediction.git
+git clone https://github.com/fayazur-rahman/car-price-prediction.git
 cd car-price-prediction
 ```
 
@@ -64,12 +64,6 @@ source venv/bin/activate
 ```
 
 ### Step 3: Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Or manually install required packages:
 
 ```bash
 pip install flask pandas numpy scikit-learn joblib
@@ -105,8 +99,8 @@ car-price-prediction/
 
 ## 📈 Sample Output
 
-- Input Example: Toyota | Corolla | 2018 | Petrol | 40,000 km  
-- Predicted Price: ₹4.85 Lakhs *(example result)*
+- Input Example: Force | Force Motors One | 2019 | Petrol | 50,000 km  
+- Predicted Price: 8.19 Lakhs *(example result)*
 
 ---
 
@@ -119,21 +113,21 @@ car-price-prediction/
 
 ---
 
-## 👨‍💻 Contributors
-
-- Md. Fayazur Rahman  
-- Md. Abdullah Hill Kafi Ahmed  
-- Md. Tahmid  
-- Md. Maruf Murshed  
-
----
 
 ## 🖼️ Project Screenshots
 
 | Car Price Prediction Dashboard | Prediction Output |
 |-------------------------------|--------------------|
-| ![Dashboard](screenshot/picture1.png) | ![Prediction](screenshot/picture2.png) |
+| ![Dashboard](screenshot/Picture1.png) | ![Prediction](screenshot/Picture2.png) |
 
 > **Figure**: The left image shows the dashboard interface. After selecting the car features and submitting, the right image shows the predicted price result.
+
+---
+
+## 📧 Contact
+
+For support or collaboration:  
+**Email:** fayazur7@gmail.com  
+**Developed By:** MD Fayazur Rahman
 
 ---
