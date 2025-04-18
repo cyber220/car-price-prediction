@@ -128,6 +128,6 @@ car-price-prediction/
 
 For support or collaboration:  
 **Email:** fayazur7@gmail.com  
-**Developed By:** MD Fayazur Rahman
+**Developed By:** [MD Fayazur Rahman](https://www.linkedin.com/in/md-fayazur-rahman/)
 
 ---
